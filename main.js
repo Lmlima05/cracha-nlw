@@ -3,7 +3,8 @@ const LinksSocialMedia = {
   youtube: '',
   facebook: 'luuan.melo.5',
   instagran: 'luanm.lima',
-  twitter: 'lmlimati'
+  twitter: 'lmlimati',
+  linkedin: 'in/luanmlima'
 }
 
 function changeSocialMediaLinks() {
